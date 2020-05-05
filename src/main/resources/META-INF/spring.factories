@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.github.zouchanglin.md5springbootstarter.config.MD5AutoConfiguration
