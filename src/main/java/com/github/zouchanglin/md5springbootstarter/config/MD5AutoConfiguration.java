@@ -1,8 +1,8 @@
-package xpu.zcl.md5springbootstarter.config;
+package com.github.zouchanglin.md5springbootstarter.config;
 
+import com.github.zouchanglin.md5springbootstarter.service.MD5Service;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import xpu.zcl.md5springbootstarter.service.MD5Service;
 
 @Configuration
 public class MD5AutoConfiguration {

@@ -1,6 +1,7 @@
-package xpu.zcl.md5springbootstarter.service;
+package com.github.zouchanglin.md5springbootstarter.service;
 
-import xpu.zcl.md5springbootstarter.util.MD5Util;
+
+import com.github.zouchanglin.md5springbootstarter.util.MD5Util;
 
 public class MD5Service {
     public String getMD5( String input ) {
